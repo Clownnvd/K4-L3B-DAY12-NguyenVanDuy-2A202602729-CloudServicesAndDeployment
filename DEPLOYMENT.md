@@ -66,3 +66,7 @@ có thể mất khoảng 50 giây theo thông báo của Render.
 
 - `screenshots/dashboard.png` — Render service ở trạng thái Live.
 - `screenshots/health.png` — `/health` trả HTTP 200.
+- `screenshots/build-log.png` — Docker image được build, deploy thành công và
+  Render xác nhận service đã live.
+- `screenshots/runtime-logs.png` — log chạy thật của ứng dụng: server khởi động,
+  `/health` và `/ready` đều trả HTTP 200.
