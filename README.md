@@ -2,6 +2,12 @@
 
 [![CI](https://github.com/Clownnvd/K4-L3B-DAY12-NguyenVanDuy-2A202602729-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)](https://github.com/Clownnvd/K4-L3B-DAY12-NguyenVanDuy-2A202602729-CloudServicesAndDeployment/actions/workflows/ci.yml)
 
+**Học viên:** Nguyễn Văn Duy · **MSSV:** `2A202602729`
+
+**Live service:** https://day12-agent-em9j.onrender.com
+
+**Platform:** Render Blueprint + Render Key Value
+
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
 gọi được, có bảo mật, có giới hạn chi phí, và không sập khi bạn deploy bản mới.
 
